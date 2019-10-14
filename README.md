@@ -1,9 +1,8 @@
-Node_RED_Prese_Intelligenti
-===========================
-
+# Node_RED_Prese_Intelligenti
 A simple flow to drive and display status of smart socket with firmware from https://github.com/arendst/Sonoff-Tasmota
 
-### About
+## Licenza
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+Copyright 2019-2020 dcast78 <dcast78@gmail.com>, RaspiBO <info@raspibo.org>
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License: http://creativecommons.org/licenses/by-sa/4.0/
