@@ -1,0 +1,12 @@
+{
+    "name": "Node_RED_Prese_Intelligenti",
+    "description": "A simple flow to drive and display status of smart socket with firmware from https://github.com/arendst/Sonoff-Tasmota",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
